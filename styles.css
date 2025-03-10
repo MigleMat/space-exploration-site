@@ -12,3 +12,40 @@
   border-radius: 2px;
   padding: 5px 10px;
 }
+
+.cta {
+  text-decoration: underline;
+}
+#logo {
+  width: 150px;
+  height: 50px;
+}
+
+/* @font-face {
+  font-family: Varsity Valentine;
+  src: url(Varsity\ Valentine.ttf);
+}
+.test {
+  font-family: Varsity Valentine;
+} */
+/* Uncomment this to see example how to use other sources of fonts --> practise.html */
+
+/* body {
+  background: whitesmoke;
+  color: whitesmoke;
+  font-family: "Rammetto One", cursive;
+}
+
+.ad {
+  background: #35654d;
+  border: 5px solid #a3bc71;
+  text-align: center;
+}
+.here {
+  color: wheat;
+  border: 2px solid #a3bc71;
+  padding: 5px 10px;
+  background-color: brown;
+} */
+
+/* Unocmment this tosee example to to use span --> casino.html */
