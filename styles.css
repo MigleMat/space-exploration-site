@@ -1,18 +1,32 @@
+
 body {
-  color: whitesmoke;
-  background-image: url("Images/moon.jpg");
+  color: #aa64bb;
+  background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZuZ3Fmano3b3N5bHJ1NjRlM3BkZzFwazJnbmpxcDI2a3hydHVreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k1173PdfJWRsoE/giphy.gif");
   background-size: cover;
   text-align: center;
   font-family: "Orbitron", Arial, Helvetica, sans-serif;
 }
 
+
 /* Check later how to center with flex and margins */
 
 .main__btn {
+  color: #aa64bb;
   font-family: inherit;
   background-color: aliceblue;
   border: 1px solid darkgray;
   border-radius: 2px;
+  padding: 5px 10px;
+  font-weight: 800;
+}
+
+.cta {
+  text-decoration: underline;
+}
+
+#logo {
+  width: 150px;
+  height: 50px;
   padding: 2px 8px;
 }
 
@@ -23,4 +37,29 @@ body {
 .test {
   font-family: Varsity Valentine;
 } */
+/* Uncomment this to see example how to use other sources of fonts --> practise.html */
+
+/* body {
+  background: whitesmoke;
+  color: whitesmoke;
+  font-family: "Rammetto One", cursive;
+}
+
+.ad {
+  background: #35654d;
+  border: 5px solid #a3bc71;
+  text-align: center;
+}
+.here {
+  color: wheat;
+  border: 2px solid #a3bc71;
+  padding: 5px 10px;
+  background-color: brown;
+} */
+
+/* Unocmment this tosee example to to use span --> casino.html */
+/* }
+.test {
+  font-family: Varsity Valentine;
+} */ 
 /* Example how to use other sources of fonts --> practise.html */
