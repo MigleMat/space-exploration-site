@@ -1,15 +1,21 @@
 
 body {
   color: #aa64bb;
-  background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZuZ3Fmano3b3N5bHJ1NjRlM3BkZzFwazJnbmpxcDI2a3hydHVreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k1173PdfJWRsoE/giphy.gif");
-  background-size: cover;
-  text-align: center;
   font-family: "Orbitron", Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 0;
 }
 
 
 /* Check later how to center with flex and margins */
 
+.hero {
+  padding: 20px 0 40px 0;
+  background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZuZ3Fmano3b3N5bHJ1NjRlM3BkZzFwazJnbmpxcDI2a3hydHVreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k1173PdfJWRsoE/giphy.gif");
+  background-size: cover;
+  
+
+}
 .main__btn {
   color: #aa64bb;
   font-family: inherit;
@@ -22,6 +28,7 @@ body {
 
 .cta {
   text-decoration: underline;
+  text-decoration-color: whitesmoke;
 }
 
 #logo {
