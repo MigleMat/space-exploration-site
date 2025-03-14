@@ -26,6 +26,9 @@ body {
   font-weight: 800;
 }
 
+h1 {
+  text-shadow: 0px 0px 4px black;
+}
 .cta {
   text-decoration: underline;
   text-decoration-color: whitesmoke;
